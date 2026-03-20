@@ -59,7 +59,7 @@
                 "/share/bakefile"
             ],
       "config-opts": [
-        "--with-opengl",
+        "--without-opengl",
         "--with-libjpeg",
         "--with-libtiff",
         "--with-libpng",
