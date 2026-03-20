@@ -102,8 +102,8 @@
             "is-important": true
           },
           "type": "archive",
-          "url": "https://ftp.debian.org/debian/pool/main/libf/libfilezilla/libfilezilla_0.52.0.orig.tar.xz",
-          "sha512": "373d25bda6053667b1b2bd73359ff71fc6d45acb287712f650c07dc0a4c219a2d6ebdc614e38a767f62696c12e0cf53c8e72e5a2d72f437740373b02237cb349"
+          "url": "https://ftp.debian.org/debian/pool/main/libf/libfilezilla/libfilezilla_0.54.1.orig.tar.xz",
+          "sha512": "9f123cc74ad158fd2510fdd067fe6983feb01f787acc983d86d5d81065a9b042614a9c4cd7aecd9f77178482e0327f17623d2019d9269bceb33be887b0dc7d7f"
         }
       ]
     },
